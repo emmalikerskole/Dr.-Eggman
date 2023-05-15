@@ -1,0 +1,16 @@
+.quotes-container {
+    height: 100vh;
+    text-align: center;
+    padding-top: 5vh;
+}
+
+
+.quotes {
+    text-align: center;
+    padding-top: 10vh;
+
+}
+
+.quotes > p {
+    padding-top: 10vh;
+}
